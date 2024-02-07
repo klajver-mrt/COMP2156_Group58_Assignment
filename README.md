@@ -1,3 +1,3 @@
 # COMP2156_Group58_Assignment
 
-This repository was maid by Klajver Myrtezai
+This repository was made by Klajver Myrtezai
