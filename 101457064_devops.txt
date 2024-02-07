@@ -1,2 +1,3 @@
 COMP 2156 - DevOps is taught by a fantastic professor named Pritesh Patel (I think he likes lions)
 In the class we learn about the devops cycle, git, source control and more
+At the end of every DevOps lecture professor Pritesh tells us to have sweet dreams
