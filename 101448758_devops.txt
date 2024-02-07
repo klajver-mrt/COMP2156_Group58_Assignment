@@ -1,0 +1,1 @@
+COMP2156 is a course based on DevOps. Short for Development Operations, DevOps strives to bring a balance in the cycle of developin, maintaining and deploying a product.
