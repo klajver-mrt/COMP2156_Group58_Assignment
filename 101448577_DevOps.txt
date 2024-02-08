@@ -1,0 +1,3 @@
+The 2156 Introduction to DevOps is a course that teaches useful topics for programmers looking to
+work in collaborative coding environments or any programmer in general, such topics include Git,
+Docker, YAML etc
