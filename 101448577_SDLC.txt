@@ -1,0 +1,2 @@
+The Software Development Life Cycle is used to make sure that a team of people working on a project for a customer have a solid basis of how to manuver around the workflow and minimize
+risk attributed to having multiple people working on a single project
