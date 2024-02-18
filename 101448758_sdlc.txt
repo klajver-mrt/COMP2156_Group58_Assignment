@@ -1,0 +1,3 @@
+The DevOps Engineer is the one who balances and mitigates between the process of development and deployment.
+
+He is also the one that stands between theworld of IT and Software Development
