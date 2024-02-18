@@ -1,2 +1,3 @@
 The Software Development Life Cycle is used to make sure that a team of people working on a project for a customer have a solid basis of how to manuver around the workflow and minimize
-risk attributed to having multiple people working on a single project
+risk attributed to having multiple people working on a single project. There are many products to help with managing your SDLC such as AWS Developer Tools. Not only will understanding
+the SDLC help with programming projects but you can also adapt it to help with business projects or really any team projects in any field
