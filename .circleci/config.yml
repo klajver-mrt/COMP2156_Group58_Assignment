@@ -2,8 +2,7 @@ version: 2.1
 
 jobs:
   up-job:
-    steps:
-      - run: echo "COMP2156_Group58_Assignment" # run the `echo` command
+    - run: echo "COMP2156_Group58_Assignment" # run the `echo` command
 
 workflows:
   my-workflow:
