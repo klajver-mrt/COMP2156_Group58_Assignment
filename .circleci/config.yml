@@ -1,0 +1,10 @@
+version: 2.1
+
+jobs:
+  up-job:
+    - run: echo "COMP2156_Group58_Assignment" # run the `echo` command
+
+workflows:
+  my-workflow:
+    jobs:
+      - up-job
