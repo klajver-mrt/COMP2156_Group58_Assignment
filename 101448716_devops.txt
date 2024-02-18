@@ -1,0 +1,8 @@
+COMP 2156
+
+This course is designed to help students learn the appropriate ways for people to set up collaboration software
+such as GitHub to help with software development in our carreers. It will help students learn how to initialize
+projects, push their work to a repository, pull down files from the repository, and how to merge branches. This
+is important as it is how the industry works and will be the backbone of some of our jobs in the industry. We 
+are also learning how to use different types of software to aid in this project such as travis, GitHub Actions,
+Docker, etc..

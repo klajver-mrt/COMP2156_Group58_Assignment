@@ -1,0 +1,7 @@
+DevOps
+
+DevOps is important because nobody works alone and having multiple people working on a common
+goal using the right tools for the job (github, etc.). Having a way to colaborate and work together on
+projects is important. This keeps things all in one place for a manager to keep track of who's doing what 
+and what's getting done. It can also help people solve problems and troubleshoot as there are more than one
+set of eyes on the problem.
