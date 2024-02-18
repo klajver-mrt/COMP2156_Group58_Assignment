@@ -1,0 +1,12 @@
+version: 2.1
+
+jobs:
+  up-job:
+    steps:
+      - checkout # check out the code in the project directory
+      - run: echo "COMP2156_Group58_Assignment" # run the `echo` command
+
+workflows:
+  my-workflow:
+    jobs:
+      - up-job
