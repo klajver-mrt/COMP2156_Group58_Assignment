@@ -6,3 +6,6 @@ projects, push their work to a repository, pull down files from the repository, 
 is important as it is how the industry works and will be the backbone of some of our jobs in the industry. We 
 are also learning how to use different types of software to aid in this project such as travis, GitHub Actions,
 Docker, etc..
+
+This course requires a lot of brainpower as a new developer. It seems simple at first, but things can
+get difficult if you don't pay attention.
