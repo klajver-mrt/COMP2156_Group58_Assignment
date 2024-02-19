@@ -5,3 +5,6 @@ goal using the right tools for the job (github, etc.). Having a way to colaborat
 projects is important. This keeps things all in one place for a manager to keep track of who's doing what 
 and what's getting done. It can also help people solve problems and troubleshoot as there are more than one
 set of eyes on the problem.
+
+The lifecycle: It spans from the beginning of software development through to delivery, maintenance, and 
+security.
