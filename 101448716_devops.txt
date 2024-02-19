@@ -9,3 +9,6 @@ Docker, etc..
 
 This course requires a lot of brainpower as a new developer. It seems simple at first, but things can
 get difficult if you don't pay attention.
+
+The tools you use in this course are really cool. Travis is basically a virtual machine dedicated to helping
+you and your team code!
