@@ -8,3 +8,7 @@ set of eyes on the problem.
 
 The lifecycle: It spans from the beginning of software development through to delivery, maintenance, and 
 security.
+
+You need to plan. This could include project goals, requirements and timelines. You need to decide on tool
+to use.
+adsffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
