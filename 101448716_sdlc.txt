@@ -11,4 +11,3 @@ security.
 
 You need to plan. This could include project goals, requirements and timelines. You need to decide on tool
 to use.
-adsffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
